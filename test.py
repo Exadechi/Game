@@ -4,7 +4,7 @@ from pytmx import *
 
 pygame.init()
 
-jiggy = 1
+jiggy = 3
 
 # Tile Image is 640x640
 infoObject = pygame.display.Info()
